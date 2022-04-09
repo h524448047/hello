@@ -9,4 +9,12 @@ hello hou
 hello hou  houhouhou
 hello hou hot-fix
 1111111111111
+<<<<<<< HEAD
 zhang
+=======
+
+12111111111111111
+
+-------------------------》
+aaa
+>>>>>>> cc05b2d14ab3ce1b59205fe8f498407b534f4ba4
